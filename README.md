@@ -26,6 +26,8 @@ I build projects that:
 
 <hr>
 
-
+### 📊 GitHub Analytics
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=batuhanegeli&bg_color=030712&color=94a3b8&line=38bdf8&point=38bdf8&area=true&hide_border=true" />
+
+<hr>
