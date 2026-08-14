@@ -30,8 +30,8 @@ I build projects that:
 
 <img src="https://readme-streak-stats.herokuapp.com?user=batuhanegeli&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api?user=batuhanegeli&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=batuhanegeli&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=batuhanegeli&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanegeli&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=batuhanegeli&bg_color=030712&color=94a3b8&line=38bdf8&point=38bdf8&area=true&hide_border=true" />
