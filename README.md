@@ -5,13 +5,7 @@
 </div>
 <br>
 
-<div align="center">
-  <!-- Rozetler (Badges) -->
-  <a href="#"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="UE5" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" /></a>
-</div>
+
 
 <br>
 
