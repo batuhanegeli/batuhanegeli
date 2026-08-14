@@ -15,7 +15,8 @@
 
 <br>
 
----
+<hr>
+
 
 ## 🎮 Game Developer • 3D Artist
 
