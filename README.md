@@ -5,7 +5,7 @@
 </div>
 <br>
 
-[![About Me](https://img.shields.io/badge/ABOUT-ME-38bdf8?style=for-the-badge&logo=github&logoColor=030712)](https://batuhanegeli.github.io)
+[![About Me](https://img.shields.io/badge/ABOUT-ME-1E3A8A?style=for-the-badge&logo=github&logoColor=fff&labelColor=1E3A8A)](https://batuhanegeli.github.io)
 
 <br>
 
