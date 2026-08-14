@@ -14,7 +14,7 @@
 </div>
 
 <br>
-<br>
+
 ---
 
 ## 🎮 Game Developer • 3D Artist
