@@ -23,7 +23,5 @@ I build projects that:
 * Prioritize smooth performance for top-down mobile projects like CyberWarrior.
 * Follow modular and maintainable code architecture.
 
-> *Immersion first. Performance always.*
-
 
 <hr>
