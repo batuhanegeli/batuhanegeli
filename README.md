@@ -28,11 +28,15 @@ I build projects that:
 
 ### 📊 GitHub Analytics
 
-<img src="https://readme-streak-stats.herokuapp.com?user=batuhanegeli&theme=tokyonight&hide_border=true" />
+<!-- Katkı Serisi (Streak) -->
+<img src="https://readme-streak-stats.herokuapp.com?user=batuhanegeli&theme=tokyonight&hide_border=true&background=030712" />
 
-<img src="https://github-readme-stats.vercel.app/api?user=batuhanegeli&show_icons=true&theme=tokyonight&hide_border=true" />
+<!-- Genel İstatistikler -->
+<img src="https://github-readme-stats.vercel.app/api?user=batuhanegeli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=batuhanegeli&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- En Çok Kullanılan Diller -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=batuhanegeli&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=batuhanegeli&theme=tokyonight&hide_border=true" />
+<!-- Koyu Mavi / Cyan Uyumlu Aktivite Grafiği -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=batuhanegeli&theme=tokyonight&hide_border=true&bg_color=030712&color=94a3b8&line=38bdf8&point=38bdf8&area=true" />
 
