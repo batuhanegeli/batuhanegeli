@@ -28,10 +28,11 @@ I build projects that:
 
 ### 📊 GitHub Analytics
 
-![GitHub Streak](https://readme-streak-stats.herokuapp.com?user=batuhanegeli&theme=tokyonight&hide_border=true)
+<img src="https://readme-streak-stats.herokuapp.com?user=batuhanegeli&theme=tokyonight&hide_border=true" />
 
-![Batuhan's GitHub Stats](https://github-readme-stats.vercel.app/api?user=batuhanegeli&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?user=batuhanegeli&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=batuhanegeli&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=batuhanegeli&layout=compact&theme=tokyonight&hide_border=true" />
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=batuhanegeli&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=batuhanegeli&theme=tokyonight&hide_border=true" />
+
