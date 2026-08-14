@@ -30,3 +30,6 @@ I build projects that:
 * Follow modular and maintainable code architecture.
 
 > *Immersion first. Performance always.*
+
+
+<hr>
