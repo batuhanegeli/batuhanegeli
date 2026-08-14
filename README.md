@@ -1,8 +1,8 @@
 
 
-<div align="https://github.com/batuhanegeli/batuhanegeli/blob/main/banner.gif">
+<div align="Center">
   <!-- KENDİ GIF LINKINI BURAYA YAPIŞTIR -->
-  <img src="https://via.placeholder.com/800x250.png?text=Buraya+Hareketli+GIF+Gelecek" alt="Batuhan Egeli Banner" width="100%" />
+  <img src="[https://via.placeholder.com/800x250.png?text=Buraya+Hareketli+GIF+Gelecek](https://github.com/batuhanegeli/batuhanegeli/blob/main/banner.gif)" alt="Batuhan Egeli Banner" width="100%" />
 </div>
 
 <br>
