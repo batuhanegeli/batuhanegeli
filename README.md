@@ -9,7 +9,9 @@
 
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,blender,cs,git&theme=dark" />
+  <img src="https://img.shields.io/badge/Unity-030712?style=flat&logo=unity&logoColor=38bdf8" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-030712?style=flat&logo=unrealengine&logoColor=a855f7" alt="Unreal" />
+  <img src="https://img.shields.io/badge/Blender-030712?style=flat&logo=blender&logoColor=f97316" alt="Blender" />
 </p>
 <hr>
 
