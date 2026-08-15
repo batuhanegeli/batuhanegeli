@@ -8,7 +8,11 @@
 [![About Me](https://img.shields.io/badge/ABOUT-ME-1E3A8A?style=for-the-badge&logo=github&logoColor=fff&labelColor=1E3A8A)](https://batuhanegeli.github.io)
 
 <br>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-030712?style=for-the-badge&logo=unity&logoColor=38bdf8" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal_Engine_5-030712?style=for-the-badge&logo=unrealengine&logoColor=a855f7" alt="Unreal Engine 5" />
+  <img src="https://img.shields.io/badge/Blender-030712?style=for-the-badge&logo=blender&logoColor=f97316" alt="Blender" />
+</p>
 <hr>
 
 
